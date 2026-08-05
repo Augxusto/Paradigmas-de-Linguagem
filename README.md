@@ -1,7 +1,7 @@
 # Paradigmas-de-Linguagem
 
 vaga:
-![Vaga](images/salario.png)
+![Vaga](salario.png)
 
 requisitos:
-![Vaga](images/x86.png)
+![Vaga](x86.png)
