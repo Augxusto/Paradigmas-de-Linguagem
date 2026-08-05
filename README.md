@@ -1,7 +1,9 @@
 # Paradigmas-de-Linguagem
 
-vaga:
+### Paradigma: procedural e imperativo
+
+### vaga:
 ![Vaga](salario.png)
 
-requisitos:
+### requisitos:
 ![Vaga](x86.png)
