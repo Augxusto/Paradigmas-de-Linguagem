@@ -5,7 +5,7 @@
 ### Paradigma: procedural e imperativo
 
 ### vaga:
-![Vaga](salario.png)
+![Vaga](images/salario.png)
 
 ### requisitos:
-![Vaga](x86.png)
+![Vaga](images/x86.png)
